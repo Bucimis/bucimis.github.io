@@ -1,4 +1,1 @@
-bucimis.github.io
-====================
-
-My personal website.
+Live at [bucimis.github.io](bucimis.github.io).
