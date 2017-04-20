@@ -1,3 +1,4 @@
-Jared Poelman's personal website
+bucimis.github.io
+====================
 
-[bucimis.github.io](http://bucimis.github.io)
+My personal website.
